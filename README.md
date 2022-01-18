@@ -17,4 +17,4 @@ Desafio de Projeto: Criando um APP simples de cadastro de séries em .NET
 - Classe Program
   - Instanciar Série Repositório
   - Menu interativo com valores de entrada e saída
-  - Conhecimentos de lógica de programação (while, switch, case, if, foreach)
+  - Lógica de programação (while, switch, case, if, foreach)
